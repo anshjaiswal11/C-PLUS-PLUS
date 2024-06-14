@@ -1,8 +1,24 @@
 #include<iostream>
+#include<conio.h>
 using namespace std;
-int main()
+struct A
 {
-    cout << "Hello World!";
-    cout<< "Hello World";
-    return 0;
+int a;
+
+A()
+{
+cout<<"ok";
+}
+
+A(int a)
+{
+cout<<"Okay ";
+
+}
+
+};
+main()
+{
+A obj,obj2(10);
+getch();
 }

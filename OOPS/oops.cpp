@@ -27,6 +27,6 @@ int main(){
     student obj;
     obj.input();
     obj.value();
-    student::member();
+    // student::member();
 }
 

@@ -27,5 +27,10 @@ main()
         {
             cin >> array[i];
         }
+
+    // printing an array
+    for(int i = 0;i<n;i++){
+        cout<<array[i];
+    }
         
 }

@@ -1,48 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.14">
-  <diagram name="Page-1" id="af8jvbCZUo7rMpxNfxvv">
-    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
+  <diagram name="Page-1" id="cELCacICJwgPTX0MdGXl">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-2" target="5IfKc4i0cwE4F6iYD_5d-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;i&gt;Preprocessing with NLP&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-3" target="5IfKc4i0cwE4F6iYD_5d-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-3" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;&lt;i&gt;Feature Extraction&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-4" target="5IfKc4i0cwE4F6iYD_5d-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-4" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;&lt;i&gt;Ai Model Prediction&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-5" target="5IfKc4i0cwE4F6iYD_5d-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-5" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Recommendation Generation&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="450" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-6" target="5IfKc4i0cwE4F6iYD_5d-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;&lt;i&gt;Doctor Validation&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="555" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5IfKc4i0cwE4F6iYD_5d-12" target="5IfKc4i0cwE4F6iYD_5d-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-12" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Input Patient Data&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="10" width="364" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5IfKc4i0cwE4F6iYD_5d-14" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;Final Decision&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="670" width="360" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
